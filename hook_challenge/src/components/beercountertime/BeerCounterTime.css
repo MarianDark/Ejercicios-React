@@ -1,0 +1,47 @@
+
+/* Estilos para el contenedor principal */
+.container {
+    margin: 20px;
+    padding: 20px;
+    border: 5px solid #780404;
+    border-radius: 5px;
+  }
+  
+  /* Estilos para el título */
+  .title {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  /* Estilos para el contador */
+  .counter {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    margin-bottom: 10px;
+  }
+  
+  /* Estilos para el mensaje cuando el contador llega a 0 */
+  .message {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    color: red;
+    margin-top: 10px;
+  }
+  
+  /* Estilos para el botón de decrementar */
+  .button {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #0ea208;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: #0056b3;
+  }
+  

@@ -1,0 +1,52 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  font-family: Calibri;
+  font-size: 30px;
+}
+
+.TitleSection {
+  background-color: #6ea4bb;
+  width: 50%;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #e7e7e6;
+}
+
+.TitleSection input {
+  width: 250px;
+  height: 40px;
+  border-radius: 10px;
+  border: 5px solid #5e98b1;
+  font-size: 18px;
+  padding-left: 10px;
+  text-align: center;
+}
+
+.TitleSection button {
+  width: 180px;
+  height: 40px;
+  margin: 20px;
+  border-radius: 10px;
+  font-size: 18px;
+  padding-left: 10px;
+  border: none;
+  color: #e7e7e6;
+  background-color: #006cbf
+}
+
+.TitleSection button:hover {
+  cursor: pointer;
+}
+.DisplaySection {
+  display: flex;
+  flex-direction: column;
+  color: rgb(5, 5, 5);
+}

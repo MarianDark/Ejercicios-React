@@ -1,0 +1,29 @@
+
+/* Estilos para el contenedor principal */
+.form-container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-family: 'Comic Sans MS', cursive, sans-serif; /* Estilo de fuente Comic Sans MS */
+  }
+  
+  /* Estilos para los campos de entrada */
+  .input-field {
+    margin-bottom: 10px;
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* Estilos para los campos de entrada cuando se enfocan */
+  .input-field:focus {
+    outline: none;
+    border-color: #007bff;
+  }
+  .h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
